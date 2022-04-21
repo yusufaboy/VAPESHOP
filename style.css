@@ -1,0 +1,66 @@
+
+/* seksyen 1 */
+.seksyen1{
+    background-color: rgb(110, 106, 106);
+    text-align: center;
+}
+
+.banner{ 
+    text-align: center;
+}
+
+.heading-sewa{
+    color: rgb(255, 255, 240);
+}
+
+.tulisan{
+    color: rgb(30, 46, 61);
+}
+
+.seksyen2{
+    background-color: rgb(23, 92, 73);
+}
+
+h1{
+    font-family: 'Luckiest Guy', cursive;
+font-family: 'Rubik Wet Paint', cursive;
+}
+.seksyen3{
+    background-color:  rgb(110, 106, 106);
+    text-align: center;
+}
+
+.container-fluid{
+    color: rgb(255, 255, 255);
+}
+
+.icon{
+    color: rgb(253, 199, 50);
+}
+
+.tulisan {
+    font-size: 0px;
+}
+
+
+.colum {
+    background-color: rgb(255, 255, 255);
+}
+
+h4{
+    text-align: center;
+}
+
+.footer{
+    text-align: center;
+}
+
+.seksyen5{
+    padding: 5% 20% 5%;
+}
+h6{
+    font-family: 'Anton', sans-serif;
+font-family: 'Bebas Neue', cursive;
+    color: aliceblue;
+}
+
